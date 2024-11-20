@@ -85,17 +85,3 @@ lpips_score = calculate_lpips_vgg(img1, img2)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{image-quality-assessment,
-  author = {Your Name},
-  title = {Image Quality Assessment Tools},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/image-quality-assessment}
-}
-```
